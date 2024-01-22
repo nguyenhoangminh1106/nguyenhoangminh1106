@@ -30,7 +30,4 @@ I am an IT student at FPT UniversityX (FUNiX), where I am pursuing my passion fo
 👯 I'm always eager to learn new skills, collaborate with others, and take on new challenges.  
 🤔 I'm looking for opportunities to apply my knowledge and creativity in the IT industry.  
 💬 Ask me about anything, please feel free! 💪  
-📫 How to reach me:  
-![github](https://github.com/nguyenhoangminh1106?style=for-the-badge&logo=GitHub&logoColor=white)]
-  
-⚡ Fun fact: I am also the founder of the Chess the Virgin Rainbow Club, a community of chess enthusiasts who promote diversity and inclusion in the game.
+⚡ Fun fact: I am also the founder of the Chess the Virgin Rainbow Club, a community of chess enthusiasts who promote diversity and inclusion in the game.  
