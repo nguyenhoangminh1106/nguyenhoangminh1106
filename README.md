@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-ABOUT ME ✌️
+ABOUT ME ✌️//
 I am an IT student at FPT UniversityX (FUNiX), where I am pursuing my passion for technology and innovation. I have experience as an academic tutor, helping other students with programming, web development, and data analysis.  
 
 🔭 I’m currently working as Academic Tutor for FUNiX
