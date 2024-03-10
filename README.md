@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 ABOUT ME ✌️  
 I am an IT student at FPT UniversityX (FUNiX), where I am pursuing my passion for technology and innovation. I have experience as an academic tutor, helping other students with programming, web development, and data analysis.  
   
-🔭 I’m currently working as Academic Tutor for FUNiX
-  Providing academic support for learners via an online training system in information technology courses:
-- HTML, CSS, Javascript
-- Java Programming
-- Computer Network
-- UX/UI Design
-- ...
-  
 🌱 I’m currently learning DevOps, Cloud, Cyber Security, and much more ...  
 👯 I'm always eager to learn new skills, collaborate with others, and take on new challenges.  
 🤔 I'm looking for opportunities to apply my knowledge and creativity in the IT industry.  
