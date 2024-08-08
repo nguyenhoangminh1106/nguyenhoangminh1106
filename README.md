@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   
 ABOUT ME ✌️  
-As a passionate problem solver with a background in technical support, I excel at troubleshooting and effective communication. During my 4-month internship, I honed my skills in identifying issues and providing efficient solutions. Recently, I delved into DevOps, mastering AWS Cloud Architecting and continuous integration. My curiosity and adaptability drive me to stay current with industry trends. I thrive in collaborative environments and eagerly contribute fresh perspectives. Let’s connect!  
+As a passionate problem solver with a background in technical support, I excel at troubleshooting and effective communication. During my 4-month internship, I honed my skills in identifying issues and providing efficient solutions. Recently, I delved into DevOps, mastering AWS Cloud Architecting and continuous integration. My curiosity and adaptability drive me to stay current with industry trends. I thrive in collaborative environments and eagerly contribute fresh perspectives. And I also have a big passion for start-ups and entrepreneurs, so let’s connect!  
   
 🌱 I’m currently learning DevOps, Cloud, Cyber Security, and much more ...  
 👯 I'm always eager to learn new skills, collaborate with others, and take on new challenges.  
