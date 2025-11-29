@@ -20,7 +20,7 @@ As a passionate problem solver with a background in technical support, I excel a
   
 🌱 I’m currently learning DevOps, Cloud, Cyber Security, and much more ...  
 👯 I'm always eager to learn new skills, collaborate with others, and take on new challenges.  
-🤔 I'm looking for opportunities to apply my knowledge and creativity in the IT industry. 
+🤔 I'm looking for opportunities to apply my knowledge and creativity in the IT industry.
 🔭 I have a strong passion for start-ups and entrepreneurship.
 💬 Ask me about anything, please feel free! 💪  
 ⚡ Fun fact: I am also the founder of the Chess the Virgin Rainbow Club, a community of chess enthusiasts who promote diversity and inclusion in the game.  
