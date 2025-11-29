@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   
 ABOUT ME ✌️  
-As a passionate problem solver with a background in technical support, I excel at troubleshooting and effective communication. My expertise extends into DevOps, where I've mastered AWS Cloud Architecting and continuous integration. I'm also well-versed in the T3-Stack and Spring Boot, enabling me to build robust and scalable applications. My curiosity and adaptability drive me to stay current with industry trends, and I thrive in collaborative environments, eager to contribute fresh perspectives. With a strong passion for start-ups and entrepreneurship, I'm always excited to connect and explore new opportunities. Let's connect!  
+Curious builder and problem solver who enjoys turning messy problems into clean solutions. With a background in AI and software engineering, I’m comfortable troubleshooting, communicating clearly, and working across disciplines. I enjoy building scalable products, learning fast, and adapting to new challenges—especially in startup environments. Passionate about technology, entrepreneurship, and collaborating with interesting people to create things that actually matter. Let's connect!  
   
 🌱 I’m currently learning DevOps, Cloud, Cyber Security, and much more ...  
 👯 I'm always eager to learn new skills, collaborate with others, and take on new challenges.  
