@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   
 ABOUT ME ✌️  
-Curious builder and problem solver who enjoys turning messy problems into clean solutions. With a background in AI and software engineering, I’m comfortable troubleshooting, communicating clearly, and working across disciplines. I enjoy building scalable products, learning fast, and adapting to new challenges—especially in startup environments. Passionate about technology, entrepreneurship, and collaborating with interesting people to create things that actually matter. Let's connect!  
+Passionate problem solver with experience building real products in startup environments. Strong at troubleshooting, clear communication, and owning work end to end. Background across full-stack development, cloud, and AI-powered systems, working closely with founders to ship features into production. Curious, adaptable, and driven by startups, entrepreneurship, and turning ideas into impact. Let's connect!  
   
 🌱 I’m currently learning DevOps, Cloud, Cyber Security, and much more ...  
 👯 I'm always eager to learn new skills, collaborate with others, and take on new challenges.  
