@@ -1,6 +1,5 @@
 # Hi, I'm Minh 👋
 
-Founding FDE @ Lyra | ex-Microsoft
 As a passionate problem solver in startup environments, I care about shipping real features fast - and making systems reliable, scalable, and safe.
 
 ---
