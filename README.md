@@ -1,26 +1,17 @@
-### Hi there 👋
-  
-<!--
-**nguyenhoangminh1106/nguyenhoangminh1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Minh 👋
 
-Here are some ideas to get you started:
+Founding FDE @ Lyra | ex-Microsoft
+As a passionate problem solver in startup environments, I care about shipping real features fast - and making systems reliable, scalable, and safe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
-ABOUT ME ✌️  
-Passionate problem solver with experience building real products in startup environments. Strong at troubleshooting, clear communication, and owning work end to end. Background across full-stack development, cloud, and AI-powered systems, working closely with founders to ship features into production. Curious, adaptable, and driven by startups, entrepreneurship, and turning ideas into impact. Let's connect!  
-  
-🌱 I’m currently learning Product, AI, Cloud, and much more ...  
-👯 I'm always eager to learn new skills, collaborate with others, and take on new challenges.  
-🤔 I'm looking for opportunities to apply my knowledge and creativity in the IT industry.  
-🔭 I have a strong passion for start-ups and entrepreneurship.  
-💬 Ask me about anything, please feel free! 💪  
-⚡ Fun fact: I am also the founder of the Chess the Virgin Rainbow Club, a community of chess enthusiasts who promote diversity and inclusion in the game.  
+---
+
+## Featured work
+A selection of projects I’ve built (products, hackathons, and technical deep-dives):
+
+- [heidi-cursor](https://github.com/nguyenhoangminh1106/heidi-cursor) — HeidiBuild 2025: healthcare automation prototype (Top 10)
+- [BOSCH_Coderace_2024](https://github.com/nguyenhoangminh1106/BOSCH_Coderace_2024) — Autonomous driving challenge (Top 5)
+- [Ethical-Hacking-Program](https://github.com/nguyenhoangminh1106/Ethical-Hacking-Program) — security tools & experiments (learning lab)
+
+---
+
+`TypeScript` `Next.js` `React` `Tailwind` `tRPC` `Prisma` `PostgreSQL` `AWS` `Azure` `AI`
